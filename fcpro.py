@@ -44,7 +44,7 @@ loc = requests.get('https://ipapi.com/ip_api.php?ip=' + ip, headers={'Referer': 
 def linex():
 	
 def logo():
-( "\n#########   ##         ## #########\n##        ##  ##       ## ##        ##\n ##        ##   ##     ##  ##        ##n ##        ##    ##   ##   ##        ##\n##########       ## ##    ##########\n##        ##     # ##     ##        ##\n##        ##   ##   ##    ##        ##\n ##        ##  ##     ##   ##        ##\n##########  ##         ## ##########\n Author : Javed Iqbal (Sad-Boy)\n Github : BALOOXH-BRAND\n')
+( "\n#########   ##         ## #########\n##        ##  ##       ## ##        ##\n ##        ##   ##     ##  ##        ##n ##        ##    ##   ##   ##        ##\n##########       ## ##    ##########\n##        ##     # ##     ##        ##\n##        ##   ##   ##    ##        ##\n ##        ##  ##     ##   ##        ##\n##########  ##         ## ##########\n Author : Javed Iqbal')
 
 def main():
 	os.system("clear")
